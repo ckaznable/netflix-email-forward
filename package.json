@@ -1,5 +1,5 @@
 {
-	"name": "red-hat-65e5",
+	"name": "netflix-email-forward",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
@@ -15,5 +15,8 @@
 		"typescript": "^5.5.2",
 		"vitest": "~3.2.0",
 		"wrangler": "^4.72.0"
+	},
+	"dependencies": {
+		"postal-mime": "^2.7.3"
 	}
 }

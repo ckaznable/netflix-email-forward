@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "red-hat-65e5",
+	"name": "netflix-email-forward",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-03-10",
 	"compatibility_flags": [
